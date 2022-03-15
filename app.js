@@ -13,4 +13,4 @@ setInterval(() => {
   const imgUrl = image[img];
   imageElement.setAttribute("src", imgUrl);
   img++;
-}, 2000);
+}, 1000);
